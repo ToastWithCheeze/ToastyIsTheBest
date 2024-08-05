@@ -1,13 +1,13 @@
-name = "Pure Discs - Tricky Trials (Fabric/Forge)"
+name = "Pure Discs - Tricky Trials"
 filename = "PureDiscsTrickyTrials-v1.0.1-1.20.1-Forge.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/W3alKOSq/versions/bGIDto1g/PureDiscsTrickyTrials-v1.0.1-1.20.1-Forge.jar"
 hash-format = "sha1"
 hash = "2598c297331906c781b453aee10c720aff3dac16"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5416077
-project-id = 1011371
+[update.modrinth]
+mod-id = "W3alKOSq"
+version = "bGIDto1g"
