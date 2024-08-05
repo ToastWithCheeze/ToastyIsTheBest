@@ -1,0 +1,13 @@
+name = "Rechiseled: Fans"
+filename = "rechiseled_fans-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c26c46972aa16447e6f4adf44770886222164835"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4840632
+project-id = 933343

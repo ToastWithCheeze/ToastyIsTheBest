@@ -1,0 +1,13 @@
+name = "Delightful Blocks"
+filename = "Delightful Blocks - 1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e921aebffaa3b125068aea9b382b1ab6e38b3da5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4977570
+project-id = 953227

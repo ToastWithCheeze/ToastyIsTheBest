@@ -1,0 +1,13 @@
+name = "Mexican's Delight"
+filename = "Mexicans_delight-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4dd87bca84a657f5a776bd1b3d596f3b717c926"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5245275
+project-id = 943431

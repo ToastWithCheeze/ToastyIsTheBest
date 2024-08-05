@@ -1,0 +1,13 @@
+name = "Italy Delight"
+filename = "italydelight-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69aa2b80a406cddc7bf022a865c4800bb4b8af33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5551828
+project-id = 1068240

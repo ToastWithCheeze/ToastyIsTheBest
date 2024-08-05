@@ -1,0 +1,13 @@
+name = "Bamboo Delight"
+filename = "bamboodelight-1.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59ec6ef7153c94d3110c1bff60a033cacaf326df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5568200
+project-id = 1055397

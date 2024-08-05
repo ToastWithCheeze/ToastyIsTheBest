@@ -1,0 +1,13 @@
+name = "USA Delight"
+filename = "usadelight-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53659881c6c4512d70d3c1057707eb964ccc0d57"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5575125
+project-id = 1059882

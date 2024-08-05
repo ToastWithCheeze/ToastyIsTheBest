@@ -1,0 +1,13 @@
+name = "Barbeque's Delight [Forge/NeoForge]"
+filename = "barbequesdelight-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b4a410213a9119612264df691e166ae68170f2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5487449
+project-id = 1007788
