@@ -2709,6 +2709,11 @@ hash = "08d286c82ca28323437d5dc8c6cc3d38ca6fcf8a66f56cb7e0005b639c90bad7"
 metafile = true
 
 [[files]]
+file = "mods/purediscstrickytrials.pw.toml"
+hash = "537a068de245290cfd412867fbf570443433f1f8d1b0348381c72a2df5db1a25"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "8a8e0f6db0afb5c64f8efb17c1b2e7a937fee57a8fd41f70ca6d74eaee60e822"
 metafile = true
@@ -2946,6 +2951,11 @@ metafile = true
 [[files]]
 file = "mods/trenzalore.pw.toml"
 hash = "c66abcf408ad2d6ffe3fe7b2db9fc08ec2540896011047a58394d467669eef9c"
+metafile = true
+
+[[files]]
+file = "mods/tricky-trials.pw.toml"
+hash = "9dca8cfec0d4fee64c4dd2f4df119d2637c0424f77fade1ea8cb1a3b1941e762"
 metafile = true
 
 [[files]]

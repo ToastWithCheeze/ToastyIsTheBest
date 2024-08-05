@@ -1,0 +1,13 @@
+name = "Tricky Trials 1.21 [FORGE]"
+filename = "tricky_trials-1.0.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08f83641c7bc24499dee008a95c79ff7bf524e38"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5587356
+project-id = 923647
