@@ -1950,6 +1950,16 @@ hash = "ac2fd14944240e2c6726a32e0dd4e58045dc140cb51203dc106ff1cefd8616a0"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "46604d6b60a2be93c014fd600de4f6c07a7774f4e47b79df52b61ddf9c3d830b"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "df7ad4e6c8ca37ce0f1f15b2984a16778edf994058168f931361ca9d98afcc6d"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
@@ -2025,6 +2035,11 @@ hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "4ae0eca22eeeb6cbcd629b24e32c2617c9a73032b89fff188bef10b98ca791a5"
+metafile = true
+
+[[files]]
 file = "mods/corail-tombstone.pw.toml"
 hash = "c02520a657a2b30981a7142b1f3eea60396b12f53009254fc0d6176268c2a824"
 metafile = true
@@ -2042,6 +2057,11 @@ metafile = true
 [[files]]
 file = "mods/crabbers-delight.pw.toml"
 hash = "a12bd466ec9c0cac9f071eeb4e257ba0cfe80e80ba1e725bed40b48bf0ae4ecd"
+metafile = true
+
+[[files]]
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "ea56fed05fb38c1390a59961dabc757c5c9cb7a6adba3a5e0e1203971f082fd7"
 metafile = true
 
 [[files]]
@@ -2685,11 +2705,6 @@ hash = "2d47877684bd91ad4c597b68bae4a8af3964011bfc0fd52e004469368f23b834"
 metafile = true
 
 [[files]]
-file = "mods/portable-crafting-table.pw.toml"
-hash = "1fd8a2699c76037a8b14ee761a9e4520cba05105b26394d08e9bdf7e87e8a918"
-metafile = true
-
-[[files]]
 file = "mods/powah-rearchitected.pw.toml"
 hash = "5edc7d4c1c98dfab922314c025c1e385914179966f700108d1c2c2457330f3d3"
 metafile = true
@@ -2817,6 +2832,16 @@ metafile = true
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "f65634348b0cf61fb2a9b99417f6fc28256ab0a37238baefdb26446a89a3bab0"
+metafile = true
+
+[[files]]
+file = "mods/silent-gear.pw.toml"
+hash = "23f6cde813e08ddd5ee7ad0c145417b420f1d2dada018788783b60f7be3f81c3"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "7f281333e1c573bc3673446c291d82f3137bfc7de6a5256d61417f67be7b40bc"
 metafile = true
 
 [[files]]
