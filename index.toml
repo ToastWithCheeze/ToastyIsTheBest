@@ -2500,6 +2500,11 @@ hash = "b1fcc156ff4fa2c69766090a75079bce77f45cc7a78dc0a7e2caec9a87b6f64e"
 metafile = true
 
 [[files]]
+file = "mods/laserio.pw.toml"
+hash = "9d85a210e77661032cfbcd930059096be6cfb6afd9abedde21bcdfa4e5b25e54"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "bbbef26097069430126ba44de152dda9c72c8b2ec2ff3c5036d526f069de8c09"
 metafile = true
@@ -2660,6 +2665,11 @@ hash = "ee8d4fd4529afdb1a277faf15c9dffc9ea74fc4a6560d07582cf0728ff6acd2d"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "b21b3850e6f670fc456ae89816a714fffd9dc71bfcd5bb9e631f03239979dc3b"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "ce89d1693943bd98af7cf1a016d2868ab50d2a81da4d4d5924cb905f9b577bb6"
 metafile = true
@@ -2702,6 +2712,11 @@ metafile = true
 [[files]]
 file = "mods/pineapple-delight.pw.toml"
 hash = "a8be8007cfcbbfc12f1a774dbee64be90415af9e62f54263c324fe9f940afe9a"
+metafile = true
+
+[[files]]
+file = "mods/pipez.pw.toml"
+hash = "de8f599eb6d2bf0461014c6d86bcfcaa40db57107e662445e99c04648756554f"
 metafile = true
 
 [[files]]
